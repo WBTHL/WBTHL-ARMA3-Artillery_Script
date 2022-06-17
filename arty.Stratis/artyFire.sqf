@@ -1,0 +1,1 @@
+_this doArtilleryFire [getPos target, "32Rnd_155mm_Mo_shells", 1];
